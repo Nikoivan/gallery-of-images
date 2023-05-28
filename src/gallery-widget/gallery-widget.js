@@ -1,5 +1,6 @@
 import Gallery from "../gallery/gallery";
 import validateUrl from "../js/validate";
+import "./gallery-widget.css";
 
 export default class GalleryWidget {
   constructor() {

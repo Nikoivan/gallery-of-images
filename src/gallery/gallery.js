@@ -1,3 +1,5 @@
+import "./gallery.css";
+
 export default class Gallery {
   constructor() {
     this.element = document.querySelector(".gallery");
